@@ -45,7 +45,7 @@ This API uses Bearer Token authentication. You will need to provide an access to
 
 To make testing the API easier, you can use the provided Postman collection. Import the following link into Postman:
 
-[Postman Collection URL]([https://www.postman.com/collections/your-collection-url](https://elements.getpostman.com/redirect?entityId=38976334-74ced563-b123-473e-b441-3bb6b261582b&entityType=collection))
+[Postman Collection URL](https://elements.getpostman.com/redirect?entityId=38976334-74ced563-b123-473e-b441-3bb6b261582b&entityType=collection)
 
 ## How to Use the Postman Collection
 
