@@ -2,6 +2,10 @@
 
 This is a RESTful API for managing a collection of books. The API allows users to create, retrieve, update, and delete books. Authentication is required for most operations.
 
+# Swagger Editor
+![image](https://github.com/user-attachments/assets/3f90d14b-23c5-48ae-b823-4bd3ab1fec60)
+
+
 ## Authentication
 
 This API uses Bearer Token authentication. You will need to provide an access token in the `Authorization` header for all requests that require authentication.
